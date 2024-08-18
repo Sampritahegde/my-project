@@ -1,2 +1,2 @@
 # my-project
-cronic kidney disease
+CHRONIC KIDNEY DISEASE
